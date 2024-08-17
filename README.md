@@ -1,1 +1,1 @@
-A Simple python learning project for Face detection
+A Simple python learning sample for Face detection
